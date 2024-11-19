@@ -1,0 +1,11 @@
+.app {
+  padding: 20px;
+};
+
+button {
+  margin: 5px;
+};
+
+.error {
+  color: red;
+};
